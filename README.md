@@ -6,3 +6,8 @@
 - SQL
 - ASP
 - Excel VBA
+
+## 자격증
+- 정보처리기사
+- SQLD
+- 토익 885점
