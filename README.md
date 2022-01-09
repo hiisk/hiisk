@@ -1,5 +1,5 @@
 # hiisk: Data Engineer
-- 데이터를 다루는 일에 흥미를 느껴 직업으로 하게 되었습니다.
+- 컴퓨터공학과 진학 후 데이터를 다루는 일에 흥미를 느껴 직업으로 하게 되었습니다.
 - 2020년 9월 파이썬을 시작으로 관련 여러가지 프로젝트를 진행하였습니다.(딥러닝/머신러닝/컴퓨터비젼)
 
 
@@ -26,9 +26,9 @@
   </div>
 
 # :star2:Certificate and Study
-- 정보처리기사
-- SQLD
-- 토익 885점
+- 정보처리기사 (2021/06)
+- SQLD (2021/06)
+- 토익 885점 (2020/11/22)
 - Baekjoon
 
 ![hiisk's github stats](https://github-readme-stats.vercel.app/api?username=hiisk&show_icons=true&theme=tokyonight)[![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)
