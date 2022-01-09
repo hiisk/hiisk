@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android-%2B%2B&logoColor=white">	
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white">	
   </div>
   
   
@@ -31,12 +31,10 @@
 - 토익 885점
 - Baekjoon
 
-  <div align=center>
-  
-  [![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)
+![hiisk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiisk&show_icons=true&theme=radical)
+[![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)
 <!--   ![hiisk's github stats](https://github-readme-stats.vercel.app/api?username=hiisk&show_icons=true&theme=tokyonight) -->
-  </div>
-  
+
   <div align=center>
 	
   
