@@ -13,8 +13,7 @@
 - 토익 885점
 - Baekjoon
 
-[![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiisk)](https://github.com/hiisk/github-readme-stats)
+[![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiisk)](https://github.com/hiisk/github-readme-stats)
 
 
 
