@@ -1,10 +1,11 @@
-# hiisk: Data Engineer
-- 컴퓨터공학과 진학 후 전공강의를 수강하고 데이터를 다루는 일에 흥미를 느껴 직업으로 하게 되었습니다.
-- 2020년 9월 처음 파이썬을 배운 후 관련 여러가지 프로젝트를 진행하였습니다.(딥러닝/머신러닝/컴퓨터비젼)
-- 현재 메가스터디 교육 입시서비스팀 데이터파트에서 근무하고 있습니다.
+##  Hi There I'm hiisk:wave:
+
+- After entering the Department of Computer Engineering, I took major lectures and became interested in handling data, so I became a professional.
+- After learning Python for the first time in September 2020, I worked on various related projects.(DL/ML/CV)
+- I am currently working in Data Part of the Megastudy Education Admissions Service Team.
 
 
-# :star:Tech Stack : Techs that I've used at least once
+## :star:Tech Stack : Techs that I've used at least once
 
 
 <h3 align="center"> :diamond_shape_with_a_dot_inside:Tech :diamond_shape_with_a_dot_inside:</h3>
@@ -39,7 +40,7 @@
   </div>
   
 
-# :star2:Certificate and Study
+## :star2:Certificate and Study
 - 정보처리기사 (2021/06)
 - SQLD (2021/06)
 - 토익 885점 (2020/11/22)
@@ -52,5 +53,5 @@
 	
 <h1 align="center"> :four_leaf_clover:Contact:four_leaf_clover:</h1>
 	
-  [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=AwesomeLists&link=https://programmers.co.kr/pr/rkdgustjr10_6484)](https://programmers.co.kr/pr/rkdgustjr10_6484) [<img  src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/>](https://hiisk.tistory.com/) <a href="mailto:rkdgustjr10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  [![Resume](https://img.shields.io/badge/CV-000000?style=flat-square&logo=AwesomeLists&link=https://programmers.co.kr/pr/rkdgustjr10_6484)](https://programmers.co.kr/pr/rkdgustjr10_6484) [<img  src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/>](https://hiisk.tistory.com/) <a href="mailto:rkdgustjr10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
