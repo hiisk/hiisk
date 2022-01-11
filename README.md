@@ -1,4 +1,4 @@
-##  Hi There I'm hiisk:wave:
+## :wave: Hi There I'm hiisk
 
 - After entering the Department of Computer Engineering, I took major lectures and became interested in handling data, so I became a professional.
 - After learning Python for the first time in September 2020, I worked on various related projects.(DL/ML/CV)
