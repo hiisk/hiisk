@@ -16,16 +16,15 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Excel VBA-000000?style=for-the-badge&logo=VBA%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/ASP-000000?style=for-the-badge&logo=ASP%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </div>
   
   <div align=center> 
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=black">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=black">
-  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch%2B%2B&logoColor=white">
   </div>
 
 <h3 align="center"> :diamond_shape_with_a_dot_inside:Tools :diamond_shape_with_a_dot_inside:</h3>
@@ -41,11 +40,11 @@
   
 
 ## :star2:Certificate and Study
-- 정보처리기사 (2021/06)
-- SQLD (2021/06)
-- 토익 885점 (2020/11/22)
+- 정보처리기사(Engineer Information Processing)
+- SQL개발자(SQL Developer)
+- TOEIC 885
 - Baekjoon
-- **준비중(빅데이터분석기사/SQLP/코딩테스트 사이트 대회)**
+- **preparing(빅데이터분석기사/SQLP/코딩테스트 사이트 대회)**
 
 ![hiisk's github stats](https://github-readme-stats.vercel.app/api?username=hiisk&show_icons=true&theme=tokyonight)[![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)
 
