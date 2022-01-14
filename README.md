@@ -52,5 +52,5 @@
 	
 <h1 align="center"> :four_leaf_clover:Contact:four_leaf_clover:</h1>
 	
-  [![Resume](https://img.shields.io/badge/CV-000000?style=flat-square&logo=AwesomeLists&link=https://programmers.co.kr/pr/rkdgustjr10_6484)](https://programmers.co.kr/pr/rkdgustjr10_6484) [<img  src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/>](https://hiisk.tistory.com/) <a href="mailto:rkdgustjr10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  [![Resume](https://img.shields.io/badge/CV-000000?style=flat-square&logo=AwesomeLists&link=https://programmers.co.kr/pr/rkdgustjr10_6484)](https://programmers.co.kr/pr/rkdgustjr10_6484) [<img  src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/>](https://hiisk.tistory.com/) <a href="mailto:notfakedata@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
