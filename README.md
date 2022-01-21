@@ -1,8 +1,8 @@
 ## :wave: Hi There I'm hiisk
 
+- I am currently working in Data Part of the Megastudy Education Admissions Service Team.
 - After entering the Department of Computer Engineering, I took major lectures and became interested in handling data, so I became a professional.
 - After learning Python for the first time in September 2020, I worked on various related projects.(DL/ML/CV)
-- I am currently working in Data Part of the Megastudy Education Admissions Service Team.
 
 
 ## :star:Tech Stack : Techs that I've used at least once
