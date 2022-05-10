@@ -12,9 +12,9 @@
 <h3 align="center"> :diamond_shape_with_a_dot_inside:Tech :diamond_shape_with_a_dot_inside:</h3>
   <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black"> 
-  <img src="https://img.shields.io/badge/mssql-4479A1?style=for-the-badge&logo=mssql&logoColor=black">
+  <img src="https://img.shields.io/badge/mssql-F80000?style=for-the-badge&logo=mssql&logoColor=black">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Excel VBA-000000?style=for-the-badge&logo=VBA%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=VBA%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/ASP-000000?style=for-the-badge&logo=ASP%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </div>
