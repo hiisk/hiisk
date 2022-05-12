@@ -50,11 +50,12 @@
 - Baekjoon
 - **Preparing(빅데이터분석기사/SQLP)**
 
-<!-- ![hiisk's github stats](https://github-readme-stats.vercel.app/api?username=hiisk&show_icons=true&theme=dracula)[![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)
+![hiisk's github stats](https://github-readme-stats.vercel.app/api?username=hiisk&show_icons=true&theme=dracula)[![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)
 
-  <div align=center>
+<!--   <div align=center>
 	
 <h1 align="center"> :four_leaf_clover:Contact:four_leaf_clover:</h1>
 	
   [![Resume](https://img.shields.io/badge/CV-000000?style=flat-square&logo=AwesomeLists&link=https://programmers.co.kr/pr/rkdgustjr10_6484)](https://programmers.co.kr/pr/rkdgustjr10_6484) [<img  src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/>](https://hiisk.tistory.com/) <a href="mailto:notfakedata@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  </div> -->
+  </div>
+ -->
