@@ -7,7 +7,6 @@
 
 ## :star:Tech Stack : Techs that I've used at least once
 
-
 <h3 align="center"> :diamond_shape_with_a_dot_inside:Tech :diamond_shape_with_a_dot_inside:</h3>
   <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black"> 
