@@ -1,4 +1,4 @@
-## :wave: Hi There I'm hiisk
+## :wave: Hi There I'm Jade
 
 - I worked in Data Part of the Megastudy Education Admissions Service Team.(21.09~22.05)
 - After learning Python for the first time in September 2020, I worked on various related projects.(DL/ML/CV)
