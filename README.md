@@ -1,8 +1,8 @@
-## :wave: Hi There I'm Jade
+## :wave: Hi There I'm Jade *I’ll be the best data scientist in korea.*
 
-- I worked in Data Part of the Megastudy Education Admissions Service Team.(21.09~22.05)
+- I worked in the Data Part of the Megastudy Education Admissions Service Team.(21.09~22.05)
 - After learning Python for the first time in September 2020, I worked on various related projects.(DL/ML/CV)
-- After entering the computer engineering, I'm interested in processing data after taking a lecture on my major.
+- After entering computer engineering, I'm interested in processing data after taking a lecture on my major.
 - I attended to university from 2016 to 2022.(I served in the military from 2018 to 2020)
 
 ## :star:Tech Stack : Techs that I've used at least once
