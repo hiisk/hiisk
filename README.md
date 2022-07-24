@@ -46,7 +46,7 @@
 - SQL개발자(SQL Developer)
 - TOEIC 885
 - Baekjoon
-- **Preparing(빅데이터분석기사/SQLP)**
+- **Preparing(빅데이터분석기사/ADsP)**
 
 ![hiisk's github stats](https://github-readme-stats.vercel.app/api?username=hiisk&show_icons=true&theme=dracula)[![https://solved.ac/profile/rkdgustjr10](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgustjr10)](https://solved.ac/rkdgustjr10)
 
