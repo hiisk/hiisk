@@ -5,6 +5,11 @@
 - After entering the computer engineering department, I became interested in data processing while listening to the lecture of my major.
 - I attended to university from 2016 to 2022.(I served in the military from 2018 to 2020)
 
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiisk&count_bg=%233D00F9&title_bg=%23007BE3&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+</div>
+
 ## :star:Tech Stack : Techs that I've used at least once
 
 <h3 align="center"> :diamond_shape_with_a_dot_inside:Tech :diamond_shape_with_a_dot_inside:</h3>
@@ -56,4 +61,3 @@
 	
   [![Resume](https://img.shields.io/badge/CV-000000?style=flat-square&logo=AwesomeLists&link=https://programmers.co.kr/pr/rkdgustjr10_6484)](https://programmers.co.kr/pr/rkdgustjr10_6484) [<img  src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Blogger&logoColor=white"/>](https://hiisk.tistory.com/) <a href="mailto:notfakedata@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
-
