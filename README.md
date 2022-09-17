@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">  
   </div>
   
-
 ## :star2:Certificate and Study
 - 정보처리기사(Information Processing Engineer)
 - SQL개발자(SQL Developer)
