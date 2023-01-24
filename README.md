@@ -1,5 +1,6 @@
-## :wave: Hi There I'm Jade *I’ll be the best data scientist in korea.*
+## :wave: Hi There I'm Jade
 
+- Currently, I work in Binggrae System Support Team(ERP, Finance System).
 - I worked in the Data Part of the Megastudy Education Admissions Service Team.(21.09~22.05)
 - Learning Python for the first time in September 2020, I worked on various related projects.(DL/ML/CV)
 - After entering the computer engineering department, I became interested in data processing while listening to the lecture of my major.
@@ -14,8 +15,9 @@
 
 <h3 align="center"> :diamond_shape_with_a_dot_inside:Tech :diamond_shape_with_a_dot_inside:</h3>
   <div align=center>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black"> 
-  <img src="https://img.shields.io/badge/mssql-F80000?style=for-the-badge&logo=mssql&logoColor=black">
+  <img src="https://img.shields.io/badge/sql-F80000?style=for-the-badge&logo=mssql&logoColor=black">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=VBA%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/ASP-000000?style=for-the-badge&logo=ASP%2B%2B&logoColor=white">
@@ -24,7 +26,6 @@
   
   <div align=center> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=black">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=black">
