@@ -49,7 +49,7 @@
 ## :star2:Certificate and Study
 - 정보처리기사(Information Processing Engineer)
 - SQL개발자(SQL Developer)
-- TOEIC 885
+- TOEIC 885 (Expired)
 - Baekjoon
 
 
