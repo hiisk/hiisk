@@ -1,6 +1,6 @@
 ## :wave: Hi There I'm Jade
 
-- Currently, I work in Binggrae System Support Team(ERP, E-Accounting(JSP), Finance System).
+- Currently, I work in Binggrae System Support Team(ERP, E-Accounting, Finance System).
 - I worked in the Data Part of the Megastudy Education Admissions Service Team.(21.09~22.05)
 - Learning Python for the first time in September 2020, I worked on various related projects.(DL/ML/CV)
 - After entering the computer engineering department, I became interested in data processing while listening to the lecture of my major.
