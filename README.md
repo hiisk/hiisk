@@ -8,7 +8,6 @@
 
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiisk&count_bg=%233D00F9&title_bg=%23007BE3&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
 
 ## :star:Tech Stack : Techs that I've used at least once
